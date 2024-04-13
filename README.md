@@ -28,7 +28,7 @@ To run the application locally, follow these steps:
 - **Description:** Fetches a list of all hotels available in the database.
 - **CURL Example:**
   ```
-  curl --location 'http://hotel-reservation-env.eba-x77aii2m.us-east-2.elasticbeanstalk.com/api/hotels' \
+  curl --location 'http://hotel-reservation-env.eba-x77aii2m.us-east-2.elasticbeanstalk.com/api/hotels?checkin=2024-05-20&checkout=2024-05-25&numberOfGuests=1' \
   --header 'Accept: application/json'
   ```
 
