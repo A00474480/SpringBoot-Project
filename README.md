@@ -67,3 +67,15 @@ To run the application locally, follow these steps:
     ]
   }'
   ```
+
+Screenshots
+-----------
+
+### GET Hotels Request
+![Get All Hotels](screenshots/GetAllHotels.png)
+
+### POST Hotel Request
+![Add New Hotel](screenshots/AddHotel.png)
+
+### POST Reservation Request
+![Add New Reservation](screenshots/AddReservation.png)
